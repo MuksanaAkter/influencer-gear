@@ -48,6 +48,7 @@ li{
     height: 414px;
     padding-right: 100px;
     background-image: url(./images/Circle\ design.svg);
+    background-repeat: no-repeat;
 }
 .header-info .title{
     padding-bottom: 25px;
